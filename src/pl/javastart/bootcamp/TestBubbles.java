@@ -23,12 +23,14 @@ public class TestBubbles {
                 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12,
                 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1};
         int[] tab5 = {5, 2, 3, 1, 4};
+        int[] tab6 = {5, 4, 3, 2, 1};
 
         bubbleSort.sortTheArray(tab1);
         bubbleSort.sortTheArray(tab2);
         bubbleSort.sortTheArray(tab3);
         bubbleSort.sortTheArray(tab4);
         bubbleSort.sortTheArray(tab5);
+        bubbleSort.sortTheArray(tab6);
     }
 }
 
